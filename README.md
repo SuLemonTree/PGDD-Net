@@ -1,11 +1,10 @@
-## YOLO Air : Makes improvements easy again
+## SAM Is Not Always Perfect: When SAM Meets Industrial Defect Detection
 
 <div align="center">
-<p>YOLOAir 算法库🚀 
-是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱。</p>
-<p>统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。</p>
+<p>PGDD-Net🚀 
+是一种新颖的先验引导缺陷检测网络，该网络有效地利用SAM的知识来提高缺陷检测的鲁棒性和准确性。</p>
   <p>
-    <a align="center" href="https://github.com/iscyy/yoloair" target="_blank">
+    <a align="center" href="https://github.com/SuLemonTree/PGDD-Net" target="_blank">
       <img width="850" src="docs/image/yoloair.png"></a>
     <br><br>
   </p>
