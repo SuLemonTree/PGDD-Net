@@ -30,19 +30,7 @@ Industrial surface detection defect is crucial for safeguarding product quality 
   <img src="https://github.com/qluinfo/HFMRE/blob/main/HFMRE_model.png" width=800 >
 </div>
 
-
-
-
-
-
-This paper was published in ***EMNLP2023*** and is titled "[HFMRE: Constructing Huffman Tree in Bags to Find Excellent Instances for Distantly Supervised Relation Extraction](https://aclanthology.org/2023.findings-emnlp.854/)".
-
-
-
-
 ## Result
-
-
 
 <div align="center">
   <img src="https://github.com/qluinfo/HFMRE/blob/main/image.png" width=800 >
