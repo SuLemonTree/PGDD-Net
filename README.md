@@ -33,12 +33,12 @@ Industrial surface detection defect is crucial for safeguarding product quality 
 ## Result
 
 <div align="center">
-  <img src="https://github.com/SuLemonTree/PGDD-Net/images/db.png" width=800 >
+  <img src="https://github.com/SuLemonTree/PGDD-Net/blob/main/images/db.png" width=800 >
 </div>
 
 ## Visualization Result
 <div align="center">
-  <img src="https://github.com/SuLemonTree/PGDD-Net/images/qp.png" width=800 >
+  <img src="https://github.com/SuLemonTree/PGDD-Net/blob/main/images/qp.png" width=800 >
 </div>
 
 ## Quick start
