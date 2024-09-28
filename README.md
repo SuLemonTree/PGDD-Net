@@ -27,7 +27,7 @@ Industrial surface detection defect is crucial for safeguarding product quality 
 
 <div align="center">
   <!-- <img src="https://github.com/qluinfo/HFMRE/blob/main/HFMRE_model.png" width=300 /> -->
-  <img src="https://github.com/SuLemonTree/PGDD-Net/images/PGDD-Net.png" width=800 >
+  <img src="https://github.com/SuLemonTree/PGDD-Net/blob/main/images/PGDD-Net.png" width=800 >
 </div>
 
 ## Result
