@@ -50,21 +50,11 @@ Industrial surface detection defect is crucial for safeguarding product quality 
 pip install -r requirements.txt
 ```
 
-
-
-
-
-
 <summary>Data</summary>
 
 - download_nyt10.sh
 - download_nyt10m.sh
 - download_wiki20m.sh
-
-
-
-
-
 
 <summary>Training & Evaluation</summary>
 
@@ -75,33 +65,5 @@ train_nyt10m.sh
 train_wiki20m.sh
 ```
 
-
-
-
-
-
-
-
 ## Citation
-If you use `HFMRE` in your work, please use the following BibTeX entries:
-```
-@inproceedings{li-etal-2023-hfmre,
-    title = "{HFMRE}: Constructing {H}uffman Tree in Bags to Find Excellent Instances for Distantly Supervised Relation Extraction",
-    author = "Li, Min  and
-      Shao, Cong  and
-      Li, Gang  and
-      Zhou, Mingle",
-    editor = "Bouamor, Houda  and
-      Pino, Juan  and
-      Bali, Kalika",
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
-    month = dec,
-    year = "2023",
-    address = "Singapore",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.findings-emnlp.854",
-    doi = "10.18653/v1/2023.findings-emnlp.854",
-    pages = "12820--12832",
-    abstract = "Since the introduction of distantly supervised relation extraction methods, numerous approaches have been developed, the most representative of which is multi-instance learning (MIL). To find reliable features that are most representative of multi-instance bags, aggregation strategies such as AVG (average), ONE (at least one), and ATT (sentence-level attention) are commonly used. These strategies tend to train third-party vectors to select sentence-level features, leaving it to the third party to decide/identify what is noise, ignoring the intrinsic associations that naturally exist from sentence to sentence. In this paper, we propose the concept of circular cosine similarity, which is used to explicitly show the intrinsic associations between sentences within a bag. We also consider the previous methods to be a crude denoising process as they are interrupted and do not have a continuous noise detection procedure. Following this consideration, we implement a relation extraction framework (HFMRE) that relies on the Huffman tree, where sentences are considered as leaf nodes and circular cosine similarity are considered as node weights. HFMRE can continuously and iteratively discriminate noise and aggregated features during the construction of the Huffman tree, eventually finding an excellent instance that is representative of a bag-level feature. The experiments demonstrate the remarkable effectiveness of our method, outperforming previously advanced baselines on the popular DSRE datasets.",
-}
-```
+
