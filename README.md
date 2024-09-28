@@ -1,5 +1,5 @@
-## SAM Is Not Always Perfect: When SAM Meets Industrial Defect Detection
-
+## 
+<h2 align="center">SAM Is Not Always Perfect: When SAM Meets Industrial Defect Detection</h2>
 <div align="center">
 <p>PGDD-Net🚀 
 是一种新颖的先验引导缺陷检测网络，该网络有效地利用SAM的知识来提高缺陷检测的鲁棒性和准确性。</p>
@@ -11,8 +11,6 @@
 
 
 English | [简体中文](README_cn.md)
-
-<h2 align="center">HFMRE: Constructing Huffman Tree in Bags to Find Excellent Instances for Distantly Supervised Relation Extraction</h2>
 <p align="center">
 <!--     <a href="https://github.com/lyuwenyu/RT-DETR/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue">
