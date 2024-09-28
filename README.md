@@ -5,21 +5,14 @@
 是一种新颖的先验引导缺陷检测网络，该网络有效地利用SAM的知识来提高缺陷检测的鲁棒性和准确性。</p>
   <p>
     <a align="center" href="https://github.com/SuLemonTree/PGDD-Net" target="_blank">
-      <img width="850" src="docs/image/yoloair.png"></a>
+    </a>
     <br><br>
   </p>
 
 
 English | [简体中文](README_cn.md)
-<p align="center">
-<!--     <a href="https://github.com/lyuwenyu/RT-DETR/blob/main/LICENSE">
-        <img alt="license" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue">
-    </a> -->
-<!--     <a href="https://github.com/shaocong-qy/HFMRE/main/LICENSE">
-        <img alt="license" src="https://github.com/shaocong-qy/HFMRE">
-    </a> -->
-    
-    <a href="mailto: 10431220590@stu.qlu.edu.cn">
+<p align="center">   
+    <a href="mailto: 10431220602@stu.qlu.edu.cn">
         <img alt="emal" src="https://img.shields.io/badge/contact_me-email-yellow">
     </a>
 </p>
