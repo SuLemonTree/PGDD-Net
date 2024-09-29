@@ -57,7 +57,9 @@ pip install -v -e .
 
 <p>Baidu Cloud Drive contains 8 industrial defect datasets, download link:</p>
   <p>
-    <a align="center" href="https://github.com/SuLemonTree/PGDD-Net" target="_blank">
+    <a align="center" href="https://pan.baidu.com/s/1uIsHc_DI_uoBdUNG60Smrg" target="_blank">
+    </a>
+       <a align="center" href="https://pan.baidu.com/s/1uIsHc_DI_uoBdUNG60Smrg" target="_blank">
     </a>
     <br><br>
   </p>
