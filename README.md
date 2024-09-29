@@ -63,7 +63,7 @@ pip install -r requirements.txt
 train_nyt10d.sh
 train_nyt10m.sh
 train_wiki20m.sh
+# Evaluation 
+train_nyt10d.sh
 ```
-
-## Citation
 
