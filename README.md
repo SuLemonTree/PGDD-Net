@@ -65,10 +65,8 @@ pip install -v -e .
 
 ```shell
 # training 
-train_nyt10d.sh
-train_nyt10m.sh
-train_wiki20m.sh
+python train.py
 # Evaluation 
-train_nyt10d.sh
+python val.py
 ```
 
