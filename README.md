@@ -48,6 +48,8 @@ Industrial surface detection defect is crucial for safeguarding product quality 
 
 ```bash
 pip install -r requirements.txt
+cd PGDD-Net/Mobile SAM
+pip install -v -e .
 ```
 
 <summary>Data</summary>
