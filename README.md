@@ -52,9 +52,12 @@ pip install -r requirements.txt
 
 <summary>Data</summary>
 
-- download_nyt10.sh
-- download_nyt10m.sh
-- download_wiki20m.sh
+<p>Baidu Cloud Drive contains 8 industrial defect datasets, download link:</p>
+  <p>
+    <a align="center" href="https://github.com/SuLemonTree/PGDD-Net" target="_blank">
+    </a>
+    <br><br>
+  </p>
 
 <summary>Training & Evaluation</summary>
 
