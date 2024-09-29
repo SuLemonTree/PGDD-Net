@@ -55,14 +55,11 @@ pip install -v -e .
 
 <summary>Data</summary>
 
-<p>Baidu Cloud Drive contains 8 industrial defect datasets, download link:https://pan.baidu.com/s/1uIsHc_DI_uoBdUNG60Smrg
-   Extract code:230l
+<p>Baidu Cloud Drive contains 8 industrial defect datasets, download link:
 </p>
   <p>
-    <a align="center" href="" target="_blank">
-    </a>
-
-    <br><br>
+    <br>https://pan.baidu.com/s/1uIsHc_DI_uoBdUNG60Smrg
+   Extract code:230l<br>
   </p>
 
 <summary>Training & Evaluation</summary>
