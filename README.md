@@ -76,6 +76,8 @@ pip install -v -e .
 ```shell
 # training 
 python train.py
+```
+```shell
 # Evaluation 
 python val.py
 ```
