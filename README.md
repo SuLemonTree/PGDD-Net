@@ -48,10 +48,19 @@ Industrial surface detection defect is crucial for safeguarding product quality 
 
 ```bash
 Python 3.10
-pip install -r requirements.txt
-cd PGDD-Net/Mobile SAM
-pip install -v -e .
 ```
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+cd PGDD-Net/Mobile SAM
+
+
+```bash
+pip install -v -e .
+
 
 <summary>Data</summary>
 
@@ -86,8 +95,4 @@ python val.py
 ```
 </details>
 
-```bash
-
-
-```
 
