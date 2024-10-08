@@ -70,4 +70,16 @@ python train.py
 # Evaluation 
 python val.py
 ```
+## Acknowledgement
+
+
+```bash
+Faster Segment Anything: Towards Lightweight SAM for Mobile Applications
+@article{zhang2023faster,
+  title={Faster segment anything: Towards lightweight sam for mobile applications},
+  author={Zhang, Chaoning and Han, Dongshen and Qiao, Yu and Kim, Jung Uk and Bae, Sung-Ho and Lee, Seungkyu and Hong, Choong Seon},
+  journal={arXiv preprint arXiv:2306.14289},
+  year={2023}
+}
+```
 
