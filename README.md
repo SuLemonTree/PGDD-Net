@@ -56,11 +56,11 @@ pip install -r requirements.txt
 
 ```bash
 cd PGDD-Net/Mobile SAM
-
+```
 
 ```bash
 pip install -v -e .
-
+```
 
 <summary>Data</summary>
 
